@@ -10,7 +10,7 @@ function DateSelect() {
     },
     {
       id: 1,
-      period: 'Last 7 Days'
+      period: 'Last 69 Days'
     },
     {
       id: 2,

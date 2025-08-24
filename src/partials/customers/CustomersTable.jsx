@@ -20,7 +20,7 @@ function CustomersTable({
     {
       id: '0',
       image: Image01,
-      name: 'Patricia Semklo',
+      name: 'Emma Watson',
       email: 'patricia.semklo@app.com',
       location: '🇬🇧 London, UK',
       orders: '24',
@@ -32,7 +32,7 @@ function CustomersTable({
     {
       id: '1',
       image: Image02,
-      name: 'Dominik Lamakani',
+      name: 'Will Smith',
       email: 'dominik.lamakani@gmail.com',
       location: '🇩🇪 Dortmund, DE',
       orders: '77',
